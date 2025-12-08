@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .MOM one-word domains still available to buy.
 
-This dataset contains 4,334 .MOM one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,577 .MOM one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.MOM one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=mom-oneword-domains&utm_content=description.top) (4,353) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,15 +13,15 @@ If you want to search & filters the complete database of [.MOM one word domains]
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/mom-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/mom-oneword-domains/blob/main/mom.csv"><b>⬇️ CSV (4.33K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/mom-oneword-domains/blob/main/mom.json"><b>⬇️ JSON (4.33K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/mom-oneword-domains/blob/main/mom.csv"><b>⬇️ CSV (4.58K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/mom-oneword-domains/blob/main/mom.json"><b>⬇️ JSON (4.58K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=mom-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.35K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
 | Domain         | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | -------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaron.mom      | premium   | 88       | 32%    | 5      |           |         |         |
+| aaron.mom      | premium   | 88       | 28%    | 5      |           |         |         |
 | abactinal.mom  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.mom      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.mom  | available | 58       | 7%     | 9      |           |         |         |
@@ -31,7 +31,7 @@ If you want to search & filters the complete database of [.MOM one word domains]
 | abatic.mom     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.mom    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.mom   | available | 50       | 1%     | 8      |           |         |         |
-| abc.mom        | premium   | 102      | 41%    | 3      |           |         |         |
+| abc.mom        | premium   | 102      | 39%    | 3      |           |         |         |
 | abdicable.mom  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.mom  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.mom | available | 56       | 1%     | 10     |           |         |         |
@@ -43,9 +43,9 @@ If you want to search & filters the complete database of [.MOM one word domains]
 | aberrant.mom   | available | 74       | 7%     | 8      |           |         |         |
 | abeyant.mom    | available | 56       | 2%     | 7      |           |         |         |
 | abhorrent.mom  | available | 54       | 3%     | 9      |           |         |         |
+| abide.mom      | available | 94       | 15%    | 5      |           |         |         |
 | abiding.mom    | available | 106      | 5%     | 7      |           |         |         |
 | abient.mom     | available | 54       | 1%     | 6      |           |         |         |
-| ability.mom    | available | 92       | 18%    | 7      |           |         |         |
 | abject.mom     | available | 94       | 8%     | 6      |           |         |         |
 | abkhas.mom     | available | 68       | 1%     | 6      |           |         |         |
 | abkhasian.mom  | available | 78       | 1%     | 9      |           |         |         |
@@ -54,8 +54,8 @@ If you want to search & filters the complete database of [.MOM one word domains]
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/mom-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/mom-oneword-domains/blob/main/mom.csv"><b>⬇️ CSV (4.33K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/mom-oneword-domains/blob/main/mom.json"><b>⬇️ JSON (4.33K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/mom-oneword-domains/blob/main/mom.csv"><b>⬇️ CSV (4.58K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/mom-oneword-domains/blob/main/mom.json"><b>⬇️ JSON (4.58K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=mom-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.35K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.MOM one word domains]
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
