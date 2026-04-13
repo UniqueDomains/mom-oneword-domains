@@ -65,24 +65,24 @@ print(df.head())
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                          |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------- |
 | seventeen.mom  | available | $1.99     | $51.99        | 84             | 62     | 9      | name.com                           |
-| concrete.mom   | resell    | $45.98    | —             | 102            | 31     | 8      | Spaceship, Inc.                    |
+| concrete.mom   | resell    | $45.98    | —             | 102            | 32     | 8      | Spaceship, Inc.                    |
 | converse.mom   | premium   | $2,500    | $2,500        | 64             | 73     | 8      | name.com                           |
 | athletics.mom  | available | $45.98    | —             | 69             | 52     | 9      | namecheap                          |
 | grandma.mom    | resell    | $1.99     | —             | 78             | 13     | 7      | Global Domains International, Inc. |
 | nationwide.mom | premium   | $2,500    | $2,500        | 76             | 66     | 10     | name.com                           |
-| forge.mom      | available | $1.99     | $51.99        | 62             | 45     | 5      | name.com                           |
+| forge.mom      | available | $1.99     | $51.99        | 62             | 44     | 5      | name.com                           |
 | green.mom      | resell    | —         | —             | 108            | 99     | 5      | Global Domains International, Inc. |
 | power.mom      | premium   | $845      | $845          | 98             | 62     | 5      | namecheap                          |
 | unity.mom      | available | $1.99     | $51.99        | 70             | 40     | 5      | name.com                           |
 | own.mom        | resell    | —         | —             | 122            | 70     | 3      | Dynadot LLC                        |
 | ant.mom        | premium   | $920,000  | $920,000      | 86             | 60     | 3      | West263 International Limited      |
-| eternal.mom    | available | $1.99     | $51.99        | 92             | 39     | 7      | name.com                           |
+| gather.mom     | available | $1.99     | $51.99        | 96             | 39     | 6      | name.com                           |
 | prompt.mom     | resell    | —         | —             | 114            | 68     | 6      | Dynadot LLC                        |
 | ace.mom        | premium   | $812.50   | $812.50       | 88             | 57     | 3      | name.com                           |
-| forward.mom    | available | $1.99     | $51.99        | 68             | 39     | 7      | name.com                           |
+| eternal.mom    | available | $1.99     | $51.99        | 92             | 39     | 7      | name.com                           |
 | enterprise.mom | resell    | —         | —             | 68             | 61     | 10     | Namecheap                          |
 | alpha.mom      | premium   | $2,500    | $2,500        | 90             | 53     | 5      | name.com                           |
-| gather.mom     | available | $1.99     | $51.99        | 96             | 38     | 6      | name.com                           |
+| forward.mom    | available | $1.99     | $51.99        | 68             | 39     | 7      | name.com                           |
 | sex.mom        | resell    | —         | —             | 98             | 59     | 3      | Spaceship, Inc.                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
