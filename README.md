@@ -1,22 +1,22 @@
-# Available .MOM One-Word Domains (8,642)
+# Available .MOM One-Word Domains (11,060)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C641%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C642%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C060%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
 Daily-updated public extract of available and resale .mom one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 8,641-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **8,642 domains** on the canonical page below.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,060 domains** on the canonical page below.
 
-**Public extract:** 8,641 rows · **Live catalog:** 8,642 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,060 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/mom`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .MOM one-word domain c
 
 ### Files
 
-- `mom.csv` — public CSV extract (8,641 rows)
-- `mom.json` — public JSON extract (8,641 rows)
+- `mom.csv` — public CSV extract (1,000 rows)
+- `mom.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                          |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------- |
-| seventeen.mom  | available | $1.99     | $51.99        | 84             | 62     | 9      | name.com                           |
-| concrete.mom   | resell    | $45.98    | —             | 102            | 32     | 8      | Spaceship, Inc.                    |
-| converse.mom   | premium   | $2,500    | $2,500        | 64             | 73     | 8      | name.com                           |
-| athletics.mom  | available | $45.98    | —             | 69             | 52     | 9      | namecheap                          |
-| grandma.mom    | resell    | $1.99     | —             | 78             | 13     | 7      | Global Domains International, Inc. |
-| nationwide.mom | premium   | $2,500    | $2,500        | 76             | 66     | 10     | name.com                           |
-| forge.mom      | available | $1.99     | $51.99        | 62             | 44     | 5      | name.com                           |
-| green.mom      | resell    | —         | —             | 108            | 99     | 5      | Global Domains International, Inc. |
-| power.mom      | premium   | $845      | $845          | 98             | 62     | 5      | namecheap                          |
-| unity.mom      | available | $1.99     | $51.99        | 70             | 40     | 5      | name.com                           |
-| own.mom        | resell    | —         | —             | 122            | 70     | 3      | Dynadot LLC                        |
-| ant.mom        | premium   | $920,000  | $920,000      | 86             | 60     | 3      | West263 International Limited      |
-| gather.mom     | available | $1.99     | $51.99        | 96             | 39     | 6      | name.com                           |
-| prompt.mom     | resell    | —         | —             | 114            | 68     | 6      | Dynadot LLC                        |
-| ace.mom        | premium   | $812.50   | $812.50       | 88             | 57     | 3      | name.com                           |
-| eternal.mom    | available | $1.99     | $51.99        | 92             | 39     | 7      | name.com                           |
-| enterprise.mom | resell    | —         | —             | 68             | 61     | 10     | Namecheap                          |
-| alpha.mom      | premium   | $2,500    | $2,500        | 90             | 53     | 5      | name.com                           |
-| forward.mom    | available | $1.99     | $51.99        | 68             | 39     | 7      | name.com                           |
-| sex.mom        | resell    | —         | —             | 98             | 59     | 3      | Spaceship, Inc.                    |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                          |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------- |
+| spectra.mom      | available | $1.99     | —             | 62             | 34     | 7      | name.com                           |
+| Keys.mom         | resell    | —         | —             | 66             | 46     | 4      | Dynadot LLC                        |
+| CocaCola.mom     | premium   | $2,800    | $2,800        | 92             | 82     | 9      | namecheap                          |
+| commonground.mom | available | $1.99     | —             | 74             | 28     | 13     | name.com                           |
+| shops.mom        | resell    | —         | —             | 64             | 24     | 5      | Global Domains International, Inc. |
+| insight.mom      | premium   | $2,500    | —             | 76             | 69     | 8      | name.com                           |
+| bees.mom         | available | $1.99     | —             | 54             | 27     | 4      | name.com                           |
+| orders.mom       | resell    | —         | —             | 60             | 19     | 6      | Spaceship, Inc.                    |
+| donuts.mom       | premium   | $2,500    | —             | 54             | 62     | 6      | name.com                           |
+| systems.mom      | available | $1.99     | —             | 46             | 27     | 7      | name.com                           |
+| webmasters.mom   | resell    | —         | —             | 52             | 12     | 10     | Spaceship, Inc.                    |
+| regions.mom      | premium   | $2,500    | —             | 64             | 59     | 7      | name.com                           |
+| drops.mom        | available | $1.99     | —             | 52             | 25     | 5      | name.com                           |
+| spas.mom         | resell    | —         | —             | 56             | 10     | 4      | Global Domains International, Inc. |
+| farmers.mom      | premium   | $2,500    | —             | 54             | 59     | 7      | name.com                           |
+| respiratory.mom  | available | $1.99     | —             | 62             | 24     | 11     | name.com                           |
+| Ryan.mom         | premium   | $2,800    | $2,800        | 60             | 44     | 4      | namecheap                          |
+| reports.mom      | available | $1.99     | —             | 58             | 24     | 7      | name.com                           |
+| tickets.mom      | premium   | $812.50   | —             | 64             | 34     | 7      | name.com                           |
+| echoes.mom       | available | $1.99     | —             | 56             | 24     | 6      | name.com                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,641-row public sample | 8,642 live domains                               |
+| 1,000-row public sample | 11,060 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MOM One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MOM One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
