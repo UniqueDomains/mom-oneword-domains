@@ -1,10 +1,10 @@
-# Available .MOM One-Word Domains (11,549)
+# Available .MOM One-Word Domains (11,555)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C549%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C555%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .mom one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,549 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,555 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,549 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,555 domains · **Median ask:** $352.49 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/mom`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                          |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------- |
-| spectra.mom     | available | $1.99     | —             | 62             | 34     | 7      | name.com                           |
-| Keys.mom        | resell    | —         | —             | 66             | 46     | 4      | Dynadot LLC                        |
-| CocaCola.mom    | premium   | $2,800    | $2,800        | 92             | 82     | 9      | namecheap                          |
-| bees.mom        | available | $1.99     | —             | 54             | 27     | 4      | name.com                           |
-| shops.mom       | resell    | —         | —             | 64             | 24     | 5      | Global Domains International, Inc. |
-| insight.mom     | premium   | $2,500    | —             | 76             | 69     | 8      | name.com                           |
-| systems.mom     | available | $1.99     | —             | 46             | 27     | 7      | name.com                           |
-| orders.mom      | resell    | —         | —             | 60             | 19     | 6      | Spaceship, Inc.                    |
-| donuts.mom      | premium   | $2,500    | —             | 54             | 62     | 6      | name.com                           |
-| drops.mom       | available | $1.99     | —             | 52             | 25     | 5      | name.com                           |
-| webmasters.mom  | resell    | —         | —             | 52             | 12     | 10     | Spaceship, Inc.                    |
-| farmers.mom     | premium   | $2,500    | —             | 54             | 59     | 7      | name.com                           |
-| respiratory.mom | available | $1.99     | —             | 62             | 24     | 11     | name.com                           |
-| Ryan.mom        | premium   | $2,800    | $2,800        | 60             | 44     | 4      | namecheap                          |
-| reports.mom     | available | $1.99     | —             | 58             | 24     | 7      | name.com                           |
-| rewards.mom     | premium   | $812.50   | —             | 62             | 30     | 7      | name.com                           |
-| echoes.mom      | available | $1.99     | —             | 56             | 24     | 6      | name.com                           |
-| quotes.mom      | premium   | $812.50   | —             | 58             | 29     | 6      | name.com                           |
-| inhouse.mom     | available | $1.99     | —             | 70             | 23     | 8      | name.com                           |
-| gems.mom        | premium   | $812.50   | —             | 70             | 28     | 4      | name.com                           |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                          |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------- |
+| barup.mom    | available | $1.99     | —             | 82             | 2      | 6      | name.com                           |
+| lyrics.mom   | available | $1.99     | —             | 90             | 21     | 6      | name.com                           |
+| dogsit.mom   | available | $1.99     | —             | 96             | 2      | 6      | name.com                           |
+| hangon.mom   | available | $1.99     | —             | 82             | 6      | 7      | name.com                           |
+| stirup.mom   | available | $1.99     | —             | 82             | 3      | 7      | name.com                           |
+| leaveon.mom  | available | $1.99     | —             | 80             | 1      | 8      | name.com                           |
+| messages.mom | available | $1.99     | —             | 80             | 16     | 8      | name.com                           |
+| presents.mom | available | $1.99     | —             | 80             | 9      | 8      | name.com                           |
+| rumcake.mom  | available | $1.99     | —             | 81             | 3      | 8      | name.com                           |
+| FabFour.mom  | available | $1.99     | —             | 82             | 3      | 8      | name.com                           |
+| spectra.mom  | available | $1.99     | —             | 62             | 34     | 7      | name.com                           |
+| Keys.mom     | resell    | —         | —             | 66             | 46     | 4      | Dynadot LLC                        |
+| CocaCola.mom | premium   | $2,800    | $2,800        | 92             | 82     | 9      | namecheap                          |
+| bees.mom     | available | $1.99     | —             | 54             | 27     | 4      | name.com                           |
+| shops.mom    | resell    | —         | —             | 64             | 24     | 5      | Global Domains International, Inc. |
+| insight.mom  | premium   | $2,500    | —             | 76             | 69     | 8      | name.com                           |
+| systems.mom  | available | $1.99     | —             | 46             | 27     | 7      | name.com                           |
+| orders.mom   | resell    | —         | —             | 60             | 19     | 6      | Spaceship, Inc.                    |
+| donuts.mom   | premium   | $2,500    | —             | 54             | 62     | 6      | name.com                           |
+| drops.mom    | available | $1.99     | —             | 52             | 25     | 5      | name.com                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,549 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 11,555 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of one-word .mom domains. That makes the main evaluation issue less about raw brevity and more about fit between the word and the .mom ending. Names such as ladies.mom or dogsit.mom communicate a maternal, family, parenting, or women-focused angle more directly than broader terms like forces.mom or finals.mom. For founders, the best picks are the ones that read naturally, are easy to say aloud, and feel ownable now at the asking price. For investors, this set calls for tighter discipline: prioritize words with obvious end-user relevance, realistic resale paths, and pricing near or below the median ask of 352.49.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Prioritize words that make immediate sense with .mom
+- Median ask is 352.49, so price discipline matters
+- Clear niche fit beats broad words on this extension
+- Check for trademark risk before paying for strong terms
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MOM One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MOM One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
