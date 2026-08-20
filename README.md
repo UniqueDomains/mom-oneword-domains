@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .mom one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 16,373 domains · **Median ask:** $151.73 · **High-demand under $2,500:** 22
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/mom`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,8 @@ print(df.head())
 
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| content.mom  | resell    | —         | —             | high           | low    | 7      | Spaceship, Inc. |
+| bang.mom     | premium   | $812.50   | —             | high           | low    | 4      | name.com        |
 | ane.mom      | available | $1.80     | $45.98        | low            | low    | 3      | namecheap       |
 | oak.mom      | resell    | —         | —             | high           | low    | 3      | Dynadot LLC     |
 | bar.mom      | premium   | $812.50   | —             | high           | low    | 3      | name.com        |
@@ -77,8 +79,6 @@ print(df.head())
 | panel.mom    | resell    | —         | —             | high           | low    | 5      | Dynadot LLC     |
 | sky.mom      | premium   | $2,500    | —             | high           | medium | 3      | name.com        |
 | DJI.mom      | available | $1.99     | $27.99        | high           | low    | 3      | namesilo        |
-| content.mom  | resell    | —         | —             | high           | low    | 7      | Spaceship, Inc. |
-| bang.mom     | premium   | $812.50   | —             | high           | low    | 4      | name.com        |
 | gee.mom      | available | $1.99     | $27.99        | medium         | low    | 3      | namesilo        |
 | musical.mom  | resell    | —         | —             | high           | low    | 7      | Spaceship, Inc. |
 | bare.mom     | premium   | $2,500    | —             | medium         | low    | 4      | name.com        |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MOM One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MOM One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
