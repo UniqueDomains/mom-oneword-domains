@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .mom one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 22,749 domains · **Median ask:** $115.90 · **High-demand under $2,500:** 25
 
-**Last updated:** 2026-09-13
+**Last updated:** 2026-09-14
 **Canonical page:** `https://unique.domains/domains/tld/mom`
 **Best for:** founders, investors, studios
 
@@ -71,7 +71,7 @@ print(df.head())
 | sex.mom      | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc. |
 | day.mom      | premium   | $812.50   | —             | high           | low    | 3      | name.com        |
 | BJP.mom      | available | $1.99     | —             | medium         | low    | 3      | name.com        |
-| bill.mom     | resell    | —         | —             | high           | low    | 4      | Dynadot LLC     |
+| bill.mom     | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc     |
 | red.mom      | premium   | $812.50   | —             | high           | medium | 3      | name.com        |
 | cot.mom      | available | $1.99     | $27.99        | high           | low    | 3      | namesilo        |
 | panel.mom    | resell    | —         | —             | medium         | low    | 5      | Dynadot Inc     |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MOM One-Word Domains*. Version 2026-09-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MOM One-Word Domains*. Version 2026-09-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
