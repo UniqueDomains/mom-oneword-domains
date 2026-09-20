@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .mom one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 26,633 domains · **Median ask:** $103.95 · **High-demand under $2,500:** 26
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/mom`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| ane.mom      | available | $1.80     | $45.98        | low            | low    | 3      | namecheap       |
-| oak.mom      | resell    | —         | —             | high           | low    | 3      | Dynadot LLC     |
-| bar.mom      | premium   | $812.50   | —             | high           | low    | 3      | name.com        |
-| atp.mom      | available | $1.99     | $27.99        | medium         | low    | 3      | namesilo        |
-| sex.mom      | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc. |
-| day.mom      | premium   | $812.50   | —             | high           | low    | 3      | name.com        |
-| BJP.mom      | available | $1.99     | —             | medium         | low    | 3      | name.com        |
-| bill.mom     | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc     |
-| red.mom      | premium   | $812.50   | —             | high           | medium | 3      | name.com        |
-| cot.mom      | available | $1.99     | $27.99        | high           | low    | 3      | namesilo        |
-| panel.mom    | resell    | —         | —             | medium         | low    | 5      | Dynadot Inc     |
-| sky.mom      | premium   | $2,500    | —             | high           | medium | 3      | name.com        |
-| DJI.mom      | available | $1.99     | $27.99        | high           | low    | 3      | namesilo        |
-| content.mom  | resell    | —         | —             | medium         | medium | 7      | Spaceship, Inc. |
-| bang.mom     | premium   | $832      | $832          | high           | low    | 4      | namesilo        |
-| gee.mom      | available | $1.99     | $27.99        | medium         | low    | 3      | namesilo        |
-| musical.mom  | resell    | —         | —             | high           | low    | 7      | Spaceship, Inc. |
-| bare.mom     | premium   | $2,500    | —             | medium         | low    | 4      | name.com        |
-| hic.mom      | available | $1.99     | —             | high           | low    | 3      | name.com        |
-| drinking.mom | resell    | —         | —             | medium         | low    | 8      | Spaceship, Inc. |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| ane.mom       | available | $1.80     | $45.98        | low            | low    | 3      | namecheap       |
+| oak.mom       | resell    | —         | —             | high           | low    | 3      | Dynadot LLC     |
+| bar.mom       | premium   | $812.50   | —             | high           | low    | 3      | name.com        |
+| atp.mom       | available | $1.99     | $27.99        | medium         | low    | 3      | namesilo        |
+| sex.mom       | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc. |
+| day.mom       | premium   | $812.50   | —             | high           | low    | 3      | name.com        |
+| bjp.mom       | available | $1.99     | —             | medium         | low    | 3      | name.com        |
+| bill.mom      | resell    | —         | —             | low            | low    | 4      | Dynadot Inc     |
+| red.mom       | premium   | $812.50   | —             | high           | medium | 3      | name.com        |
+| cot.mom       | available | $1.99     | $27.99        | high           | low    | 3      | namesilo        |
+| panel.mom     | resell    | —         | —             | low            | low    | 5      | Dynadot Inc     |
+| sky.mom       | premium   | $2,500    | —             | high           | medium | 3      | name.com        |
+| dji.mom       | available | $1.99     | $27.99        | high           | low    | 3      | namesilo        |
+| musical.mom   | resell    | —         | —             | high           | low    | 7      | Spaceship, Inc. |
+| bang.mom      | premium   | $832      | $832          | high           | low    | 4      | namesilo        |
+| gee.mom       | available | $1.99     | $27.99        | medium         | low    | 3      | namesilo        |
+| drinking.mom  | resell    | —         | —             | medium         | low    | 8      | Spaceship, Inc. |
+| bare.mom      | premium   | $2,500    | —             | medium         | low    | 4      | name.com        |
+| hic.mom       | available | $1.99     | —             | high           | low    | 3      | name.com        |
+| beginning.mom | resell    | —         | —             | low            | low    | 9      | Spaceship, Inc. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MOM One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MOM One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
